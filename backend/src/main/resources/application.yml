@@ -1,0 +1,19 @@
+server:
+  shutdown: graceful
+application:
+  login-required: false
+  username: user
+  password: password
+  urls: auto
+  blessing-enabled: true
+  blessings:
+    - "新的一年开始了，祝您万事如意！"
+    - "祝愿您在新的一年里快乐常伴，心想事成！"
+    - "愿新的一年带给你更多的喜悦和收获！"
+    - "新年到来，愿所有的不快都随风而去，只留下美好回忆！"
+    - "愿新的一年里，您的梦想都能实现！"
+    - "在这个新年的时刻，祝您阖家欢乐，健康平安！"
+    - "新的一年，新的开始，愿一切顺利，心情愉快！"
+    - "愿新的一年里的每一天都充满阳光和希望！"
+    - "祝你新的一年心想事成，美梦成真！"
+    - "新年到来，愿您的未来更加光明！"
